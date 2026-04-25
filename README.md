@@ -15,6 +15,12 @@
   - optimized.py
   - test_cases.py
 
+### Arrays
+- [00_basics](arrays/00_basics/)
+  - [theory.md](arrays/00_basics/theory.md) - Theory on static and dynamic arrays
+  - [custom_dynamic_array.py](arrays/00_basics/custom_dynamic_array.py) - Custom dynamic array implementation
+  - [operations.py](arrays/00_basics/operations.py) - Basic array operations
+
 ---
 
 ## Workflow
