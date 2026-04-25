@@ -4,7 +4,7 @@
 # Prompt
 Act as a senior DSA mentor.
 
-Generate detailed theory notes for: <TOPIC>
+Generate detailed theory notes in md file format for: <TOPIC>
 
 Include:
 
