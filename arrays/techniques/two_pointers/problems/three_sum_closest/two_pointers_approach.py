@@ -1,4 +1,14 @@
 def solve(nums, target):
+    """
+    Finds the sum of three distinct elements in the array that is closest to the target value.
+    
+    This function uses an optimized two-pointer approach. The array is sorted first, then for each
+    element, two pointers (left and right) are used to find the pair that, combined with the fixed
+    element, gives a sum closest to the target. This avoids checking all possible triplets.
+    
+    Time Complexity: O(n^2) - Sorting takes O(n log n), and the two-pointer traversal is O(n^2).
+    Space Complexity: O(1) - Sorting is done in-place, and no additional space is used beyond a few variables.
+    """
     n = len(nums)
     
     nums.sort()
