@@ -40,6 +40,8 @@ This technique shines when:
 But don't expect it to always give O(n) - sometimes it's O(n²), which is still better than O(n³) brute force.
 
 
+## 3. Pattern Recognition Clues
+
 - The data is sorted (arrays or strings).
 - The goal involves finding a pair, a triplet, or a subarray.
 - The problem mentions `reversing`, `palindromes` or `removing duplicates`.

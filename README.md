@@ -30,6 +30,16 @@
     - [three_sum](arrays/techniques/two_pointers/problems/three_sum/) - Three sum
     - [three_sum_closest](arrays/techniques/two_pointers/problems/three_sum_closest/) - Three sum closest
 
+- [techniques/sliding_window](arrays/techniques/sliding_window/)
+  - [theory.md](arrays/techniques/sliding_window/theory.md) - Sliding window technique theory
+  - [template.py](arrays/techniques/sliding_window/template.py) - Reusable sliding window template
+  - **Problems:**
+    - [longest_continuous_increasing_subsequence](arrays/techniques/sliding_window/problems/longest_continuous_increasing_subsequence/) - Longest continuous increasing subsequence
+    - [longest_mountain_array](arrays/techniques/sliding_window/problems/longest_mountain_array/) - Longest mountain in array
+    - [maximum_cards_points](arrays/techniques/sliding_window/problems/maximum_cards_points/) - Maximum points you can obtain from cards
+    - [maximum_product_subarray](arrays/techniques/sliding_window/problems/maximum_product_subarray/) - Maximum product subarray
+    - [minimum_size_subarray_sum](arrays/techniques/sliding_window/problems/minimum_size_subarray_sum/) - Minimum size subarray sum
+
 ---
 
 ## Workflow
