@@ -143,4 +143,4 @@ It is a common misconception that a `while` loop inside a `for` loop automatical
 
 ## Clue 
 
-Look for problems mentioning subarray sums, cumulative sums, or range sums, and hints that precomputing sums might optimize the solution.
+Look for problems involving contiguous subarrays, hints that a "window" needs to slide through the array, or mention of properties like "maximum sum" or "minimum length."
